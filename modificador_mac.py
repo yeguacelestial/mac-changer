@@ -12,7 +12,7 @@ def tomar_argumentos():
     (opciones,argumentos) = parser.parse_args()
 
     if not opciones.interfaz and not opciones.nueva_mac:
-        parser.error("[-] Especifica la interfaz y la direccion MAC deseada.")
+        parser.error("[*] Usa -h para consultar el uso de este script ")
     elif not opciones.interfaz:
         parser.error ("[-] Especifica la interfaz a la que quieres modificarle la direccion MAC. Usa '-h' o '--help' para mas info.")
     elif not opciones.nueva_mac:
