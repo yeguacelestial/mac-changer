@@ -22,4 +22,4 @@ python modificador.py -h
 
 ## Happy hacking.
 **Made by**
-[YeguaCelestial](twitter.com/ygclstl)
+[YeguaCelestial](https://twitter.com/ygclstl)
