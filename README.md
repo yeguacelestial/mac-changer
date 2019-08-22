@@ -21,4 +21,5 @@ python modificador.py -h
 ```
 
 ## Happy hacking.
-@ygclstl in Twitter
+**Made by Yegua Celestial**
+[Twitter](twitter.com/ygclstl)
